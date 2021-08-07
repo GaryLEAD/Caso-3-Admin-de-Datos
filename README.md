@@ -17,5 +17,5 @@
   En esta carpeta se encuentra la "DATA" ya procesada, limpia y lista para su uso y entrega "Clean Data"
 
 ### documentacion
-  En esta carpeta tenemos el presente Caso con sus instrucciones, proveida por la profesora Lincy Gonzales, LEAD University.
+  En esta carpeta tenemos el presente Caso con sus instrucciones, proveida por la profesora Lincy Gonzalez, LEAD University. Tambien en esta carpeta se encuentra la documentación del codigo de python utilizado para los procesos de limpieza y procesamiento de los datos.
   
