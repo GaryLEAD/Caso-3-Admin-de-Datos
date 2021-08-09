@@ -11,7 +11,7 @@
   En esta carpeta se encuentran la "DATA" que se utilizo para el presente Caso #3 y consta con los datos sucios y sin procesar.
   
 ### Codigo Python
-  En esta carpeta se encuentra el codigo utilizado para todos los procesos de limpieza y procesamiento de los datos.
+  En esta carpeta se encuentra el codigo utilizado para todos los procesos de limpieza y procesamiento de los datos. En el mismo codigo se encuentra la explicación de la funcionalidad de cada linea de codigo
 
 ### datos procesados
   En esta carpeta se encuentra la "DATA" ya procesada, limpia y lista para su uso y entrega "Clean Data"
